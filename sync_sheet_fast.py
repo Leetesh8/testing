@@ -84,5 +84,5 @@ def postgres_copy_stream(table_name, engine, df, chunksize=2000):
     finally:
         connection.close()
 
-# Execute sync
+
 postgres_copy_stream('mg_output_double_zone', engine, df)
