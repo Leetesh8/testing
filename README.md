@@ -10,3 +10,7 @@ Leetesh - Junior IT
 2. Put your Google `credentials_2.json` file in the right folder
 3. Set your database password in the script
 4. Run: `python3 sync_sheet_fast.py`
+
+
+
+tesutin it
