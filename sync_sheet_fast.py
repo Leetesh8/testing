@@ -86,3 +86,5 @@ def postgres_copy_stream(table_name, engine, df, chunksize=2000):
 
 
 postgres_copy_stream('mg_output_double_zone', engine, df)
+
+check it
